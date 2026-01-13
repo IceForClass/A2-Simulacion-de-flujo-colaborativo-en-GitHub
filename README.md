@@ -1,4 +1,4 @@
-<img align="right" src="resources/r9q.png" width="350" alt="Galaxy S21 FE 5G">
+<img align="right" src="deberiahaberunafotoaqui" width="350" alt="Galaxy S21 FE 5G">
 
 # Windows Driver pack for Galaxy S21 FE 5G SM8350 devices
 
